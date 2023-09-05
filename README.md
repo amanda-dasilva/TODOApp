@@ -105,11 +105,11 @@ Follow these steps to install and run your "TODO App" Java project:
    - The application's main interface, `MainScreen`, should now be displayed.
    - You can create, view, update, and delete projects and tasks using the GUI.
 
-### Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request.
-
 ### Usage Tips
 
 - Projects and tasks are organized in the application, and tasks must be associated with a project.
 - You can create, edit, or delete projects and tasks using the provided GUI dialogs.
+
+### Contributing
+
+Contributions are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request.
